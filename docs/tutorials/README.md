@@ -1,0 +1,27 @@
+# Tutorials
+
+## Documents
+
+- [How to Activate Google Pay - IgnitionDeck Documentation](./how-to-activate-google-pay-ignitiondeck-documentation.md)
+- [Payment Gateways - IgnitionDeck Documentation](./payment-gateways-ignitiondeck-documentation.md)
+- [Default Pages and IDC Account Links - IgnitionDeck Documentation](./default-pages-and-idc-account-links-ignitiondeck-documentation.md)
+- [How to Activate Apple Pay - IgnitionDeck Documentation](./how-to-activate-apple-pay-ignitiondeck-documentation.md)
+- [Global Currency - IgnitionDeck Documentation](./global-currency-ignitiondeck-documentation.md)
+- [IgnitionDeck Shortcodes - IgnitionDeck Documentation](./ignitiondeck-shortcodes-ignitiondeck-documentation.md)
+- [IgnitionDeck API - IgnitionDeck Documentation](./ignitiondeck-api-ignitiondeck-documentation.md)
+- [Custom Project Post Template - IgnitionDeck Documentation](./custom-project-post-template-ignitiondeck-documentation.md)
+- [Google eCommerce Tracking - IgnitionDeck Documentation](./google-ecommerce-tracking-ignitiondeck-documentation.md)
+- [Deck Builder - IgnitionDeck Documentation](./deck-builder-ignitiondeck-documentation.md)
+- [Multifondo - IgnitionDeck Documentation](./multifondo-ignitiondeck-documentation.md)
+- [How to Charge Crowdfunding Fees - IgnitionDeck Documentation](./how-to-charge-crowdfunding-fees-ignitiondeck-documentation.md)
+- [Stripe Connect - IgnitionDeck Documentation](./stripe-connect-ignitiondeck-documentation.md)
+- [Better Sharing & IgnitionDeck Addon - IgnitionDeck Documentation](./better-sharing-ignitiondeck-addon-ignitiondeck-documentation.md)
+- [Fundify - IgnitionDeck Documentation](./fundify-ignitiondeck-documentation.md)
+- [Creating and Using Credits - IgnitionDeck Documentation](./creating-and-using-credits-ignitiondeck-documentation.md)
+- [Projects | Creating Projects - IgnitionDeck Documentation](./projects-creating-projects-ignitiondeck-documentation.md)
+- [CrowdPress - IgnitionDeck Documentation](./crowdpress-ignitiondeck-documentation.md)
+- [Projects | Organizing Projects with Categories - IgnitionDeck Documentation](./projects-organizing-projects-with-categories-ignitiondeck-documentation.md)
+- [Choosing Payment Gateways - IgnitionDeck Documentation](./choosing-payment-gateways-ignitiondeck-documentation.md)
+- [WooCommerce & IgnitionDeck - IgnitionDeck Documentation](./woocommerce-ignitiondeck-ignitiondeck-documentation.md)
+- [500 Framework—the 500 Parent Theme - IgnitionDeck Documentation](./500-framework-the-500-parent-theme-ignitiondeck-documentation.md)
+- [Stellar Demo Tutorial - IgnitionDeck Documentation](./stellar-demo-tutorial-ignitiondeck-documentation.md)
