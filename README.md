@@ -22,14 +22,14 @@ The documentation is organized into the following main categories:
 
 If you're new to IgnitionDeck, you might want to start with these resources:
 
-- [What is IgnitionDeck?](organized_docs/settings/what-is-ignitiondeck-ignitiondeck-documentation.md)
-- [Plugin Installation](organized_docs/general/plugin-installation-ignitiondeck-documentation.md)
-- [Setup Guide](organized_docs/general/setup-ignitiondeck-documentation.md)
-- [Creating Projects](organized_docs/tutorials/projects-creating-projects-ignitiondeck-documentation.md)
+- [What is IgnitionDeck?](settings/what-is-ignitiondeck-ignitiondeck-documentation.md)
+- [Plugin Installation](general/plugin-installation-ignitiondeck-documentation.md)
+- [Setup Guide](general/setup-ignitiondeck-documentation.md)
+- [Creating Projects](tutorials/projects-creating-projects-ignitiondeck-documentation.md)
 
 ## Repository Structure
 
-The documentation is stored in the `organized_docs` directory, arranged by category. Each category has its own README with a list of available articles.
+The documentation is stored in the `docs` directory, arranged by category. Each category has its own README with a list of available articles.
 
 ## License
 
